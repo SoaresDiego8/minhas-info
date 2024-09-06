@@ -4,13 +4,13 @@
 
 <p align="left">💻 Sou um desenvolvedor Back-End.<br>📊 Atualmente estou estudando [Desenvolvimento Web | Desenvolvimento de Software Back-End]<br>Curso Ciência da Computação na UDF.<br>💼 Atualmente, trabalho na Camara dos Deputados [Assistente de Gabinete], porém, não é a minha aréa... Estou em busca de estágio.<br>⏳ Tenho 20 anos.<br>📖 Atualmente estou lendo 'Engenharia de Software - Uma abordagem profissional.</p>
 <p align="left">
-  <a href="https://mail.google.com/mail/u/0/#inbox" title="Gmail">
+  <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
-  <a href="https://www.instagram.com/soaresdiegoo_/" title="LinkedIn">
+  <a href="https://www.instagram.com/soaresdiegoo_/" target="_blank" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
-  <a href="http://wa.me/5561992515797" title="WhatsApp">
+  <a href="http://wa.me/5561992515797" target="_blank" title="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
-  <a href="https://www.linkedin.com/in/soaresdiegoo-/" title="Instagram">
+  <a href="https://www.linkedin.com/in/soaresdiegoo-/" target="_blank" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
 </p>
 
