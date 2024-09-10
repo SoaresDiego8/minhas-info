@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">💻 Sou um desenvolvedor Back-End.<br>📊 Atualmente estou estudando [Desenvolvimento Web | Desenvolvimento de Software Back-End]<br>Curso Ciência da Computação na UDF.<br>💼 Atualmente trabalho na Camara dos Deputados [Assistente de Gabinete], porém, não é a minha aréa... Estou em busca de estágio.<br>⏳ Tenho 20 anos.<br>📖 Atualmente estou lendo 'Engenharia de Software - Uma abordagem profissional.</p>
+<p align="left">💻 Sou um desenvolvedor Back-End.<br>📊 Atualmente estou estudando [Desenvolvimento Web | Desenvolvimento de Software Back-End]<br>Curso Ciência da Computação na UDF.<br>💼 Atualmente trabalho na Camara dos Deputados [Assistente de Gabinete].<br>⏳ Tenho 20 anos.<br>📖 Atualmente estou lendo 'Engenharia de Software - Uma abordagem profissional.</p>
 <p align="left">
   <a href="https://mail.google.com/mail/u/0/#inbox" title="Gmail" target="_blank">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
