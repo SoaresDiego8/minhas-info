@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">💻 Sou um desenvolvedor Back-End.<br>📊 Atualmente estou estudando [Desenvolvimento Web | Desenvolvimento de Software Back-End]<br>Curso Ciência da Computação na UDF.<br>💼 Atualmente trabalho na Camara dos Deputados [Assistente de Gabinete].<br>⏳ Tenho 20 anos.<br>📖 Atualmente estou lendo 'Engenharia de Software - Uma abordagem profissional.</p>
+<p align="left">💻 Sou um desenvolvedor Back-End.<br>📊 Atualmente estou estudando [Django REST Framework | UiPath: automatize processos e manipule dados]<br>Curso Ciência da Computação na UDF.<br>💼 Atualmente trabalho na Banco do Brasil Serviçi & Tecnologias - BBTS [Estagiário].<br>⏳ Tenho 21 anos.<br>📖 Atualmente estou lendo 'Engenharia de Software - Uma abordagem profissional.</p>
 <p align="left">
   <a href="https://mail.google.com/mail/u/0/#inbox" title="Gmail" target="_blank">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
@@ -35,12 +35,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
 ###
 
-<h2 align="left">📈 Estatística GitHub 2024</h2>
+<h2 align="left">📈 Estatística GitHub 2025</h2>
 
 ###
 
